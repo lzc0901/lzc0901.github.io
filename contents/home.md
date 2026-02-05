@@ -9,17 +9,17 @@ I'm currently pursuing a Master's degree in Computer Science and Technology at t
 <code>2042593039@qq.com</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
+**XX University**, Master of Computer Science and Technology (2022 – 2026)  
 • GPA: 3.7/4  
 
-**XX University**, Exchange student <br>  
+<!-- **XX University**, Exchange student <br>  
 • As a XX, represented my college as an outstanding student for a XX exchange program.  
 
 **XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+• GPA: XX/XX (top XX%)   -->
 
 #### Research Interests  
 XX, XX, XX, XX.
 
-  git config --global user.email "2042593039@qq.com"
-  git config --global user.name "lzc0901"
+<!-- git config --global user.email "2042593039@qq.com"
+git config --global user.name "lzc0901" -->
