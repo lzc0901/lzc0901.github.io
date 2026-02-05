@@ -1,5 +1,7 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
+我目前在位于襄阳的湖北文理学院计算机工程学院攻读计算机科学与技术硕士学位。
+
 I'm currently pursuing a Master's degree in Computer Science and Technology at the Department of School of Computer Engineering, Hubei University of Arts and Science, Xiangyang.
 
 #### Email  
