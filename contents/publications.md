@@ -1,9 +1,3 @@
-- XXXXXXX论文
-
-- XXXXXXX论文
-
-- XXXXXXX论文
-
 ## 2025
 
 1.  **Research and applications of deep learning in computer vision**  
